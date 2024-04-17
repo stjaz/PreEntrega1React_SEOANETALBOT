@@ -1,6 +1,6 @@
 import "../src/App.css"
 import Brand from "./Components/Brand/Brand"
-import ItemListContainer from "./Components/ItemListContainer"
+import ItemListContainer from "./Components/ItemListContainer/ItemListContainer"
 import NavBar from "./Components/NavBar/NavBar"
 
 
